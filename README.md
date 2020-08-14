@@ -1,7 +1,7 @@
 ### Hello habibi 👋
 
 
-- 👨‍💻 I'm currently working as a Software Engineer @ [Clearbanc](https://clearbanc.com/)
+- 👨‍💻 Currently working as a Software Engineer at the worlds largest e-ecommerce investor [Clearbanc](https://clearbanc.com/)
 - 🏠 Living in Toronto, Canada 🇨🇦
 - 💬 Talk to me about podcasts 🎙️, sports 🏃‍♂️, and stonks 📈
 - ☕️ Coffee chat enthusiast, reach me on [![Linkedin Badge](https://img.shields.io/badge/-Hisham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hnimri/)](https://www.linkedin.com/in/hnimri/) 

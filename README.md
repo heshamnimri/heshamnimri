@@ -5,7 +5,7 @@
 - 🏠 Living in Toronto, Canada 🇨🇦
 - 💬 Talk to me about podcasts 🎙️, sports 🏃‍♂️, and stonks 📈
 - ☕️ Coffee chat enthusiast, reach me on [![Linkedin Badge](https://img.shields.io/badge/-Hisham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hnimri/)](https://www.linkedin.com/in/hnimri/) 
-- ⚡️ Fun fact: As a kid I played basketball with 3 NBA players 🏀
+- ⚡️ Fun fact: As a kid I played basketball with 3 athletes who are now NBA players 🏀
 - 📜 Check out my paper on [Autonomous driving](https://drive.google.com/file/d/1G4yC_iow7yLuFtWMVnduiUP7svXtMV3G/view) 🚘
 
 **Languages**

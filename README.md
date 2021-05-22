@@ -1,4 +1,4 @@
-### Hello habibtz 👋
+### Hello 👋
 
 
 - 👨‍💻 Currently working as a Software Engineer at the worlds largest e-ecommerce investor [Clearbanc](https://clearbanc.com/)

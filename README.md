@@ -38,4 +38,4 @@
 </p> 
 
 
-https://hishamnimri.com/
+Check out my photojournalism work: hishamnimri.com | shamshots.com
